@@ -1,0 +1,1 @@
+This repository contains a full implementation of a hybrid deep learning + radiomics (DLRN) model for non-invasive prediction of muscle-invasive bladder cancer (MIBC) and survival prognosis based on enhanced CT images.
